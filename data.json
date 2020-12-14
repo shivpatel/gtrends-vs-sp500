@@ -1,0 +1,1022 @@
+[
+  {
+    "date": "01/01/2004",
+    "searchVolume": 16,
+    "sp500Price": 1132.52
+  },
+  {
+    "date": "02/01/2004",
+    "searchVolume": 29,
+    "sp500Price": 1143.36
+  },
+  {
+    "date": "03/01/2004",
+    "searchVolume": 42,
+    "sp500Price": 1123.98
+  },
+  {
+    "date": "04/01/2004",
+    "searchVolume": 25,
+    "sp500Price": 1133.36
+  },
+  {
+    "date": "05/01/2004",
+    "searchVolume": 21,
+    "sp500Price": 1102.78
+  },
+  {
+    "date": "06/01/2004",
+    "searchVolume": 15,
+    "sp500Price": 1132.76
+  },
+  {
+    "date": "07/01/2004",
+    "searchVolume": 6,
+    "sp500Price": 1105.85
+  },
+  {
+    "date": "08/01/2004",
+    "searchVolume": 10,
+    "sp500Price": 1088.94
+  },
+  {
+    "date": "09/01/2004",
+    "searchVolume": 11,
+    "sp500Price": 1117.66
+  },
+  {
+    "date": "10/01/2004",
+    "searchVolume": 30,
+    "sp500Price": 1117.21
+  },
+  {
+    "date": "11/01/2004",
+    "searchVolume": 23,
+    "sp500Price": 1168.94
+  },
+  {
+    "date": "12/01/2004",
+    "searchVolume": 23,
+    "sp500Price": 1199.21
+  },
+  {
+    "date": "01/01/2005",
+    "searchVolume": 20,
+    "sp500Price": 1181.41
+  },
+  {
+    "date": "02/01/2005",
+    "searchVolume": 28,
+    "sp500Price": 1199.63
+  },
+  {
+    "date": "03/01/2005",
+    "searchVolume": 32,
+    "sp500Price": 1194.9
+  },
+  {
+    "date": "04/01/2005",
+    "searchVolume": 27,
+    "sp500Price": 1164.43
+  },
+  {
+    "date": "05/01/2005",
+    "searchVolume": 22,
+    "sp500Price": 1178.28
+  },
+  {
+    "date": "06/01/2005",
+    "searchVolume": 10,
+    "sp500Price": 1202.25
+  },
+  {
+    "date": "07/01/2005",
+    "searchVolume": 4,
+    "sp500Price": 1222.24
+  },
+  {
+    "date": "08/01/2005",
+    "searchVolume": 5,
+    "sp500Price": 1224.27
+  },
+  {
+    "date": "09/01/2005",
+    "searchVolume": 11,
+    "sp500Price": 1225.92
+  },
+  {
+    "date": "10/01/2005",
+    "searchVolume": 19,
+    "sp500Price": 1191.96
+  },
+  {
+    "date": "11/01/2005",
+    "searchVolume": 24,
+    "sp500Price": 1237.37
+  },
+  {
+    "date": "12/01/2005",
+    "searchVolume": 20,
+    "sp500Price": 1262.07
+  },
+  {
+    "date": "01/01/2006",
+    "searchVolume": 22,
+    "sp500Price": 1278.73
+  },
+  {
+    "date": "02/01/2006",
+    "searchVolume": 21,
+    "sp500Price": 1276.65
+  },
+  {
+    "date": "03/01/2006",
+    "searchVolume": 28,
+    "sp500Price": 1293.74
+  },
+  {
+    "date": "04/01/2006",
+    "searchVolume": 25,
+    "sp500Price": 1302.17
+  },
+  {
+    "date": "05/01/2006",
+    "searchVolume": 23,
+    "sp500Price": 1290.01
+  },
+  {
+    "date": "06/01/2006",
+    "searchVolume": 9,
+    "sp500Price": 1253.17
+  },
+  {
+    "date": "07/01/2006",
+    "searchVolume": 7,
+    "sp500Price": 1260.24
+  },
+  {
+    "date": "08/01/2006",
+    "searchVolume": 4,
+    "sp500Price": 1287.15
+  },
+  {
+    "date": "09/01/2006",
+    "searchVolume": 14,
+    "sp500Price": 1317.74
+  },
+  {
+    "date": "10/01/2006",
+    "searchVolume": 14,
+    "sp500Price": 1363.38
+  },
+  {
+    "date": "11/01/2006",
+    "searchVolume": 14,
+    "sp500Price": 1388.64
+  },
+  {
+    "date": "12/01/2006",
+    "searchVolume": 12,
+    "sp500Price": 1416.42
+  },
+  {
+    "date": "01/01/2007",
+    "searchVolume": 14,
+    "sp500Price": 1424.16
+  },
+  {
+    "date": "02/01/2007",
+    "searchVolume": 23,
+    "sp500Price": 1444.8
+  },
+  {
+    "date": "03/01/2007",
+    "searchVolume": 27,
+    "sp500Price": 1406.95
+  },
+  {
+    "date": "04/01/2007",
+    "searchVolume": 19,
+    "sp500Price": 1463.64
+  },
+  {
+    "date": "05/01/2007",
+    "searchVolume": 19,
+    "sp500Price": 1511.14
+  },
+  {
+    "date": "06/01/2007",
+    "searchVolume": 6,
+    "sp500Price": 1514.19
+  },
+  {
+    "date": "07/01/2007",
+    "searchVolume": 9,
+    "sp500Price": 1520.71
+  },
+  {
+    "date": "08/01/2007",
+    "searchVolume": 15,
+    "sp500Price": 1454.62
+  },
+  {
+    "date": "09/01/2007",
+    "searchVolume": 12,
+    "sp500Price": 1497.12
+  },
+  {
+    "date": "10/01/2007",
+    "searchVolume": 17,
+    "sp500Price": 1539.66
+  },
+  {
+    "date": "11/01/2007",
+    "searchVolume": 16,
+    "sp500Price": 1463.39
+  },
+  {
+    "date": "12/01/2007",
+    "searchVolume": 13,
+    "sp500Price": 1479.22
+  },
+  {
+    "date": "01/01/2008",
+    "searchVolume": 22,
+    "sp500Price": 1378.76
+  },
+  {
+    "date": "02/01/2008",
+    "searchVolume": 17,
+    "sp500Price": 1354.87
+  },
+  {
+    "date": "03/01/2008",
+    "searchVolume": 22,
+    "sp500Price": 1316.94
+  },
+  {
+    "date": "04/01/2008",
+    "searchVolume": 19,
+    "sp500Price": 1370.47
+  },
+  {
+    "date": "05/01/2008",
+    "searchVolume": 17,
+    "sp500Price": 1403.22
+  },
+  {
+    "date": "06/01/2008",
+    "searchVolume": 9,
+    "sp500Price": 1341.25
+  },
+  {
+    "date": "07/01/2008",
+    "searchVolume": 8,
+    "sp500Price": 1257.33
+  },
+  {
+    "date": "08/01/2008",
+    "searchVolume": 5,
+    "sp500Price": 1281.47
+  },
+  {
+    "date": "09/01/2008",
+    "searchVolume": 51,
+    "sp500Price": 1216.95
+  },
+  {
+    "date": "10/01/2008",
+    "searchVolume": 59,
+    "sp500Price": 968.8
+  },
+  {
+    "date": "11/01/2008",
+    "searchVolume": 26,
+    "sp500Price": 883.04
+  },
+  {
+    "date": "12/01/2008",
+    "searchVolume": 16,
+    "sp500Price": 877.56
+  },
+  {
+    "date": "01/01/2009",
+    "searchVolume": 14,
+    "sp500Price": 865.58
+  },
+  {
+    "date": "02/01/2009",
+    "searchVolume": 22,
+    "sp500Price": 805.23
+  },
+  {
+    "date": "03/01/2009",
+    "searchVolume": 20,
+    "sp500Price": 757.13
+  },
+  {
+    "date": "04/01/2009",
+    "searchVolume": 20,
+    "sp500Price": 848.15
+  },
+  {
+    "date": "05/01/2009",
+    "searchVolume": 16,
+    "sp500Price": 902.41
+  },
+  {
+    "date": "06/01/2009",
+    "searchVolume": 7,
+    "sp500Price": 926.12
+  },
+  {
+    "date": "07/01/2009",
+    "searchVolume": 6,
+    "sp500Price": 935.82
+  },
+  {
+    "date": "08/01/2009",
+    "searchVolume": 8,
+    "sp500Price": 1009.73
+  },
+  {
+    "date": "09/01/2009",
+    "searchVolume": 8,
+    "sp500Price": 1044.55
+  },
+  {
+    "date": "10/01/2009",
+    "searchVolume": 14,
+    "sp500Price": 1067.66
+  },
+  {
+    "date": "11/01/2009",
+    "searchVolume": 14,
+    "sp500Price": 1088.07
+  },
+  {
+    "date": "12/01/2009",
+    "searchVolume": 13,
+    "sp500Price": 1110.38
+  },
+  {
+    "date": "01/01/2010",
+    "searchVolume": 14,
+    "sp500Price": 1123.58
+  },
+  {
+    "date": "02/01/2010",
+    "searchVolume": 13,
+    "sp500Price": 1089.16
+  },
+  {
+    "date": "03/01/2010",
+    "searchVolume": 17,
+    "sp500Price": 1152.05
+  },
+  {
+    "date": "04/01/2010",
+    "searchVolume": 16,
+    "sp500Price": 1197.32
+  },
+  {
+    "date": "05/01/2010",
+    "searchVolume": 24,
+    "sp500Price": 1125.06
+  },
+  {
+    "date": "06/01/2010",
+    "searchVolume": 9,
+    "sp500Price": 1083.36
+  },
+  {
+    "date": "07/01/2010",
+    "searchVolume": 5,
+    "sp500Price": 1079.8
+  },
+  {
+    "date": "08/01/2010",
+    "searchVolume": 6,
+    "sp500Price": 1087.28
+  },
+  {
+    "date": "09/01/2010",
+    "searchVolume": 8,
+    "sp500Price": 1122.08
+  },
+  {
+    "date": "10/01/2010",
+    "searchVolume": 12,
+    "sp500Price": 1171.58
+  },
+  {
+    "date": "11/01/2010",
+    "searchVolume": 14,
+    "sp500Price": 1198.89
+  },
+  {
+    "date": "12/01/2010",
+    "searchVolume": 12,
+    "sp500Price": 1241.53
+  },
+  {
+    "date": "01/01/2011",
+    "searchVolume": 14,
+    "sp500Price": 1282.62
+  },
+  {
+    "date": "02/01/2011",
+    "searchVolume": 13,
+    "sp500Price": 1321.12
+  },
+  {
+    "date": "03/01/2011",
+    "searchVolume": 18,
+    "sp500Price": 1304.49
+  },
+  {
+    "date": "04/01/2011",
+    "searchVolume": 19,
+    "sp500Price": 1331.51
+  },
+  {
+    "date": "05/01/2011",
+    "searchVolume": 15,
+    "sp500Price": 1338.31
+  },
+  {
+    "date": "06/01/2011",
+    "searchVolume": 8,
+    "sp500Price": 1287.29
+  },
+  {
+    "date": "07/01/2011",
+    "searchVolume": 7,
+    "sp500Price": 1325.19
+  },
+  {
+    "date": "08/01/2011",
+    "searchVolume": 22,
+    "sp500Price": 1185.31
+  },
+  {
+    "date": "09/01/2011",
+    "searchVolume": 9,
+    "sp500Price": 1173.88
+  },
+  {
+    "date": "10/01/2011",
+    "searchVolume": 12,
+    "sp500Price": 1207.22
+  },
+  {
+    "date": "11/01/2011",
+    "searchVolume": 12,
+    "sp500Price": 1226.42
+  },
+  {
+    "date": "12/01/2011",
+    "searchVolume": 12,
+    "sp500Price": 1243.32
+  },
+  {
+    "date": "01/01/2012",
+    "searchVolume": 11,
+    "sp500Price": 1300.58
+  },
+  {
+    "date": "02/01/2012",
+    "searchVolume": 13,
+    "sp500Price": 1352.49
+  },
+  {
+    "date": "03/01/2012",
+    "searchVolume": 16,
+    "sp500Price": 1389.24
+  },
+  {
+    "date": "04/01/2012",
+    "searchVolume": 16,
+    "sp500Price": 1386.43
+  },
+  {
+    "date": "05/01/2012",
+    "searchVolume": 14,
+    "sp500Price": 1341.27
+  },
+  {
+    "date": "06/01/2012",
+    "searchVolume": 7,
+    "sp500Price": 1323.48
+  },
+  {
+    "date": "07/01/2012",
+    "searchVolume": 5,
+    "sp500Price": 1359.78
+  },
+  {
+    "date": "08/01/2012",
+    "searchVolume": 6,
+    "sp500Price": 1403.45
+  },
+  {
+    "date": "09/01/2012",
+    "searchVolume": 8,
+    "sp500Price": 1443.42
+  },
+  {
+    "date": "10/01/2012",
+    "searchVolume": 11,
+    "sp500Price": 1437.82
+  },
+  {
+    "date": "11/01/2012",
+    "searchVolume": 16,
+    "sp500Price": 1394.51
+  },
+  {
+    "date": "12/01/2012",
+    "searchVolume": 10,
+    "sp500Price": 1422.29
+  },
+  {
+    "date": "01/01/2013",
+    "searchVolume": 12,
+    "sp500Price": 1480.4
+  },
+  {
+    "date": "02/01/2013",
+    "searchVolume": 16,
+    "sp500Price": 1512.31
+  },
+  {
+    "date": "03/01/2013",
+    "searchVolume": 16,
+    "sp500Price": 1550.83
+  },
+  {
+    "date": "04/01/2013",
+    "searchVolume": 18,
+    "sp500Price": 1570.7
+  },
+  {
+    "date": "05/01/2013",
+    "searchVolume": 16,
+    "sp500Price": 1639.84
+  },
+  {
+    "date": "06/01/2013",
+    "searchVolume": 9,
+    "sp500Price": 1618.77
+  },
+  {
+    "date": "07/01/2013",
+    "searchVolume": 8,
+    "sp500Price": 1668.68
+  },
+  {
+    "date": "08/01/2013",
+    "searchVolume": 8,
+    "sp500Price": 1670.09
+  },
+  {
+    "date": "09/01/2013",
+    "searchVolume": 8,
+    "sp500Price": 1687.17
+  },
+  {
+    "date": "10/01/2013",
+    "searchVolume": 14,
+    "sp500Price": 1720.03
+  },
+  {
+    "date": "11/01/2013",
+    "searchVolume": 13,
+    "sp500Price": 1783.54
+  },
+  {
+    "date": "12/01/2013",
+    "searchVolume": 12,
+    "sp500Price": 1807.78
+  },
+  {
+    "date": "01/01/2014",
+    "searchVolume": 15,
+    "sp500Price": 1822.36
+  },
+  {
+    "date": "02/01/2014",
+    "searchVolume": 21,
+    "sp500Price": 1817.04
+  },
+  {
+    "date": "03/01/2014",
+    "searchVolume": 19,
+    "sp500Price": 1863.52
+  },
+  {
+    "date": "04/01/2014",
+    "searchVolume": 20,
+    "sp500Price": 1864.26
+  },
+  {
+    "date": "05/01/2014",
+    "searchVolume": 16,
+    "sp500Price": 1889.77
+  },
+  {
+    "date": "06/01/2014",
+    "searchVolume": 9,
+    "sp500Price": 1947.09
+  },
+  {
+    "date": "07/01/2014",
+    "searchVolume": 8,
+    "sp500Price": 1973.1
+  },
+  {
+    "date": "08/01/2014",
+    "searchVolume": 7,
+    "sp500Price": 1961.53
+  },
+  {
+    "date": "09/01/2014",
+    "searchVolume": 11,
+    "sp500Price": 1993.23
+  },
+  {
+    "date": "10/01/2014",
+    "searchVolume": 18,
+    "sp500Price": 1937.27
+  },
+  {
+    "date": "11/01/2014",
+    "searchVolume": 14,
+    "sp500Price": 2044.57
+  },
+  {
+    "date": "12/01/2014",
+    "searchVolume": 16,
+    "sp500Price": 2054.27
+  },
+  {
+    "date": "01/01/2015",
+    "searchVolume": 17,
+    "sp500Price": 2028.18
+  },
+  {
+    "date": "02/01/2015",
+    "searchVolume": 19,
+    "sp500Price": 2082.2
+  },
+  {
+    "date": "03/01/2015",
+    "searchVolume": 21,
+    "sp500Price": 2079.99
+  },
+  {
+    "date": "04/01/2015",
+    "searchVolume": 20,
+    "sp500Price": 2094.86
+  },
+  {
+    "date": "05/01/2015",
+    "searchVolume": 16,
+    "sp500Price": 2111.94
+  },
+  {
+    "date": "06/01/2015",
+    "searchVolume": 12,
+    "sp500Price": 2099.29
+  },
+  {
+    "date": "07/01/2015",
+    "searchVolume": 21,
+    "sp500Price": 2094.14
+  },
+  {
+    "date": "08/01/2015",
+    "searchVolume": 52,
+    "sp500Price": 2039.87
+  },
+  {
+    "date": "09/01/2015",
+    "searchVolume": 22,
+    "sp500Price": 1944.41
+  },
+  {
+    "date": "10/01/2015",
+    "searchVolume": 16,
+    "sp500Price": 2024.81
+  },
+  {
+    "date": "11/01/2015",
+    "searchVolume": 16,
+    "sp500Price": 2080.62
+  },
+  {
+    "date": "12/01/2015",
+    "searchVolume": 16,
+    "sp500Price": 2054.08
+  },
+  {
+    "date": "01/01/2016",
+    "searchVolume": 37,
+    "sp500Price": 1918.6
+  },
+  {
+    "date": "02/01/2016",
+    "searchVolume": 24,
+    "sp500Price": 1904.42
+  },
+  {
+    "date": "03/01/2016",
+    "searchVolume": 22,
+    "sp500Price": 2021.95
+  },
+  {
+    "date": "04/01/2016",
+    "searchVolume": 21,
+    "sp500Price": 2075.54
+  },
+  {
+    "date": "05/01/2016",
+    "searchVolume": 18,
+    "sp500Price": 2065.55
+  },
+  {
+    "date": "06/01/2016",
+    "searchVolume": 20,
+    "sp500Price": 2083.89
+  },
+  {
+    "date": "07/01/2016",
+    "searchVolume": 7,
+    "sp500Price": 2148.9
+  },
+  {
+    "date": "08/01/2016",
+    "searchVolume": 8,
+    "sp500Price": 2170.95
+  },
+  {
+    "date": "09/01/2016",
+    "searchVolume": 11,
+    "sp500Price": 2157.69
+  },
+  {
+    "date": "10/01/2016",
+    "searchVolume": 12,
+    "sp500Price": 2143.02
+  },
+  {
+    "date": "11/01/2016",
+    "searchVolume": 41,
+    "sp500Price": 2164.99
+  },
+  {
+    "date": "12/01/2016",
+    "searchVolume": 14,
+    "sp500Price": 2246.63
+  },
+  {
+    "date": "01/01/2017",
+    "searchVolume": 19,
+    "sp500Price": 2275.12
+  },
+  {
+    "date": "02/01/2017",
+    "searchVolume": 22,
+    "sp500Price": 2329.91
+  },
+  {
+    "date": "03/01/2017",
+    "searchVolume": 24,
+    "sp500Price": 2366.82
+  },
+  {
+    "date": "04/01/2017",
+    "searchVolume": 17,
+    "sp500Price": 2359.31
+  },
+  {
+    "date": "05/01/2017",
+    "searchVolume": 18,
+    "sp500Price": 2395.35
+  },
+  {
+    "date": "06/01/2017",
+    "searchVolume": 10,
+    "sp500Price": 2433.99
+  },
+  {
+    "date": "07/01/2017",
+    "searchVolume": 8,
+    "sp500Price": 2454.1
+  },
+  {
+    "date": "08/01/2017",
+    "searchVolume": 12,
+    "sp500Price": 2456.22
+  },
+  {
+    "date": "09/01/2017",
+    "searchVolume": 11,
+    "sp500Price": 2492.84
+  },
+  {
+    "date": "10/01/2017",
+    "searchVolume": 17,
+    "sp500Price": 2557
+  },
+  {
+    "date": "11/01/2017",
+    "searchVolume": 18,
+    "sp500Price": 2593.61
+  },
+  {
+    "date": "12/01/2017",
+    "searchVolume": 19,
+    "sp500Price": 2664.34
+  },
+  {
+    "date": "01/01/2018",
+    "searchVolume": 24,
+    "sp500Price": 2789.8
+  },
+  {
+    "date": "02/01/2018",
+    "searchVolume": 100,
+    "sp500Price": 2705.16
+  },
+  {
+    "date": "03/01/2018",
+    "searchVolume": 25,
+    "sp500Price": 2702.77
+  },
+  {
+    "date": "04/01/2018",
+    "searchVolume": 21,
+    "sp500Price": 2653.63
+  },
+  {
+    "date": "05/01/2018",
+    "searchVolume": 16,
+    "sp500Price": 2701.49
+  },
+  {
+    "date": "06/01/2018",
+    "searchVolume": 11,
+    "sp500Price": 2754.35
+  },
+  {
+    "date": "07/01/2018",
+    "searchVolume": 9,
+    "sp500Price": 2793.64
+  },
+  {
+    "date": "08/01/2018",
+    "searchVolume": 9,
+    "sp500Price": 2857.82
+  },
+  {
+    "date": "09/01/2018",
+    "searchVolume": 11,
+    "sp500Price": 2901.5
+  },
+  {
+    "date": "10/01/2018",
+    "searchVolume": 31,
+    "sp500Price": 2785.46
+  },
+  {
+    "date": "11/01/2018",
+    "searchVolume": 21,
+    "sp500Price": 2723.23
+  },
+  {
+    "date": "12/01/2018",
+    "searchVolume": 44,
+    "sp500Price": 2567.31
+  },
+  {
+    "date": "01/01/2019",
+    "searchVolume": 21,
+    "sp500Price": 2607.39
+  },
+  {
+    "date": "02/01/2019",
+    "searchVolume": 20,
+    "sp500Price": 2754.86
+  },
+  {
+    "date": "03/01/2019",
+    "searchVolume": 22,
+    "sp500Price": 2803.98
+  },
+  {
+    "date": "04/01/2019",
+    "searchVolume": 20,
+    "sp500Price": 2903.8
+  },
+  {
+    "date": "05/01/2019",
+    "searchVolume": 20,
+    "sp500Price": 2854.71
+  },
+  {
+    "date": "06/01/2019",
+    "searchVolume": 10,
+    "sp500Price": 2890.17
+  },
+  {
+    "date": "07/01/2019",
+    "searchVolume": 8,
+    "sp500Price": 2996.11
+  },
+  {
+    "date": "08/01/2019",
+    "searchVolume": 15,
+    "sp500Price": 2897.5
+  },
+  {
+    "date": "09/01/2019",
+    "searchVolume": 9,
+    "sp500Price": 2982.16
+  },
+  {
+    "date": "10/01/2019",
+    "searchVolume": 15,
+    "sp500Price": 2977.68
+  },
+  {
+    "date": "11/01/2019",
+    "searchVolume": 16,
+    "sp500Price": 3104.9
+  },
+  {
+    "date": "12/01/2019",
+    "searchVolume": 17,
+    "sp500Price": 3176.75
+  },
+  {
+    "date": "01/01/2020",
+    "searchVolume": 19,
+    "sp500Price": 3278.2
+  },
+  {
+    "date": "02/01/2020",
+    "searchVolume": 38,
+    "sp500Price": 3277.31
+  },
+  {
+    "date": "03/01/2020",
+    "searchVolume": 88,
+    "sp500Price": 2652.39
+  },
+  {
+    "date": "04/01/2020",
+    "searchVolume": 35,
+    "sp500Price": 2761.98
+  },
+  {
+    "date": "05/01/2020",
+    "searchVolume": 24,
+    "sp500Price": 2919.61
+  },
+  {
+    "date": "06/01/2020",
+    "searchVolume": 19,
+    "sp500Price": 3104.66
+  },
+  {
+    "date": "07/01/2020",
+    "searchVolume": 16,
+    "sp500Price": 3207.62
+  },
+  {
+    "date": "08/01/2020",
+    "searchVolume": 16,
+    "sp500Price": 3391.71
+  },
+  {
+    "date": "09/01/2020",
+    "searchVolume": 20,
+    "sp500Price": 3365.52
+  },
+  {
+    "date": "10/01/2020",
+    "searchVolume": 21,
+    "sp500Price": 3418.7
+  },
+  {
+    "date": "11/01/2020",
+    "searchVolume": 19,
+    "sp500Price": 3429.33
+  },
+  {
+    "date": "12/01/2020",
+    "searchVolume": 25,
+    "sp500Price": 3663.46
+  }
+ ]
